@@ -16,7 +16,7 @@
   2. Dengan menggunakan terminal pada directory bin dan menjalankan perintah "./main.exe"
 
 
-- Identitas Pembuat
+- Identitas Pembuat:
     Stefan Mattew Susanto
     13523020
     
